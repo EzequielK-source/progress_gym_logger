@@ -1,0 +1,9 @@
+{
+  "name": "progress_gym_logger",
+  "version": "1.0.0",
+  "description": "A gym_progress app ",
+  "main": "src/bin/www.js",
+  "repository": "https://github.com/EzequielK-source/progress_gym_logger",
+  "author": "EzequielK-source <programacionezequielk@gmail.com>",
+  "license": "MIT"
+}
